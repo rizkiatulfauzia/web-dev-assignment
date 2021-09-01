@@ -1,0 +1,20 @@
+body, h1, h2, p, td, a, span {
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background: url(bg8.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+}
+span{
+    color: rgb(161, 21, 28);
+}
+.ilkomp{
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 1200px;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: justify;
+    text-indent: 25px;
+    color:black;
+}

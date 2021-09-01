@@ -1,0 +1,32 @@
+body, h1, h2, p, td, a, span {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+body{
+    background: url(bg2.jpg); 
+    background-size: cover; 
+    background-attachment: fixed;
+}
+a {
+    color:black;
+}
+span {
+    color: rgb(241, 35, 207);
+}
+.profil{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding: 5px;
+}
+.ikon{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 800px;
+    color: rgb(56, 56, 245);
+    margin: 20px auto;
+}
+.icon {
+    text-align: center;
+    padding: 3px;
+}

@@ -1,0 +1,24 @@
+body, h1, h2, p, td, a, span {
+    font-family:'Times New Roman', Times, serif;
+}
+body {
+    background: url(bg5.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+}
+li {
+    text-indent: 5px;
+}
+span {
+    color: green;
+}
+.profilNegara {
+    text-align: justify;
+    text-indent: 25px;
+    color:black;
+}
+.gambar {
+    color: rgb(209, 10, 77);
+    text-align: center;
+    padding: 5px;
+}
